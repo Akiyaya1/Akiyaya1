@@ -185,7 +185,6 @@ struct AddCardView: View {
         }
     }
 }
-
 struct Card: Codable, Identifiable {
     let id = UUID()
     let question: String
@@ -195,7 +194,7 @@ struct Card: Codable, Identifiable {
     var allAnswers: [String] {
         var answers = wrongAnswers
         answers.append(answer)
-        return answers.shuffled() 
+        return answers.shuffled() // Перемешиваем ответы
     }
 }
 
@@ -218,7 +217,6 @@ struct QuizView: View {
                         .foregroundColor(.white)
                         .padding()
                     
-                    // Отображение всех ответов
                     ForEach(cards[currentCardIndex].allAnswers, id: \.self) { answer in
                         Button(action: {
                             selectedAnswer = answer
@@ -279,7 +277,6 @@ struct QuizView: View {
         }
     }
     
-    // Проверка ответа
     private func checkAnswer() {
         if selectedAnswer == cards[currentCardIndex].answer {
             isCorrect = true
@@ -289,12 +286,14 @@ struct QuizView: View {
         showResult = true
     }
     
+    // Переход к следующему вопросу
     private func nextQuestion() {
         currentCardIndex += 1
         selectedAnswer = ""
         showResult = false
     }
 }
+
 struct CardApp: App {
     var body: some Scene {
         WindowGroup {
