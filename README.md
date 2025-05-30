@@ -1,7 +1,8 @@
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /> Akiya's Coding Universe
 
 <div align="center">
-  <img src="https://i.imgur.com/6oMaI77.gif" width="600" alt="Anime Banner">
+  <!-- Using a reliable GitHub-hosted anime banner -->
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWlheHN0ZHV2ZWN3MGd2cHk1aXRheTJ2OWo0a3RmYXpzdjZiM2ZrNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xULW8Pnq3nR19Cjm5a/giphy.gif" width="600" alt="Anime Banner">
 </div>
 
 <p align="center">
@@ -25,7 +26,7 @@ const akiya = {
 };
 ```
 
-<img align="right" src="https://i.imgur.com/o8ooeuX.gif" width="250" alt="Anime Coding">
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200" alt="Coding">
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> Tech Stack
 
@@ -40,10 +41,6 @@ const akiya = {
   
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" alt="GitHub Streak">
-</div>
-
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> Current Interests
 
 <table>
@@ -51,17 +48,13 @@ const akiya = {
     <td width="50%">
       <h3 align="center">Compiler Development</h3>
       <p align="center">
-        <a href="https://github.com/YOUR_USERNAME/YOUR_COMPILER_REPO">
-          <img src="https://i.imgur.com/rHEWEAv.gif" alt="Compiler" width="300">
-        </a>
+        <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Compiler" width="300">
       </p>
     </td>
     <td width="50%">
       <h3 align="center">Game Development</h3>
       <p align="center">
-        <a href="https://github.com/YOUR_USERNAME/YOUR_GAME_REPO">
-          <img src="https://i.imgur.com/Ug5jYYL.gif" alt="Game Dev" width="300">
-        </a>
+        <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Game Dev" width="300">
       </p>
     </td>
   </tr>
@@ -69,43 +62,26 @@ const akiya = {
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart Increasing" width="25" height="25" /> GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" height="170">
-</div>
+<!-- Replace 'akiya' with your actual GitHub username in both widgets below -->
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=akiya&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="170">
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=akiya&layout=compact&theme=tokyonight" alt="Top Languages" height="170">
+  </a>
+</p>
 
 ---
-
 <div align="center">
-  <img src="https://i.imgur.com/4M7IWwP.gif" width="350" alt="Anime Footer">
+  <!-- Replace 'akiya' with your actual GitHub username -->
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWZ6MjNhbnJzdTNzYm1qcHVoM3ZmcnZ1dzFzeHRocDZreWFpdXc4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UYzNgRSTf9X1e/giphy.gif" alt="Profile Views">
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square" alt="Profile Views">
-</div>
-
-<!-- Snake animation -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
-<!-- Anime-themed ASCII art -->
+<!-- Anime-themed Secret Garden -->
 <details>
-  <summary>🌸 Secret Garden</summary>
+  <summary>🌸Secret</summary>
   <div align="center">
-    <img src="https://i.imgur.com/eBbpvZP.gif" width="400" alt="Anime Secret">
+    <h3>Someone cleaned up here</h3>
   </div>
 </details>
-
-  <summary>🌸 Click for a surprise!</summary>
-  <pre>
-
-
-<!---
-Akiyaya1/Akiyaya1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
