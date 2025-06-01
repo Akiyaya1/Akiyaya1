@@ -1,7 +1,6 @@
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /> Akiya's Coding Universe
 
 <div align="center">
-  <!-- Using a reliable GitHub-hosted anime banner -->
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWlheHN0ZHV2ZWN3MGd2cHk1aXRheTJ2OWo0a3RmYXpzdjZiM2ZrNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xULW8Pnq3nR19Cjm5a/giphy.gif" width="600" alt="Anime Banner">
 </div>
 
@@ -62,7 +61,6 @@ const akiya = {
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart Increasing" width="25" height="25" /> GitHub Stats
 
-<!-- Replace 'akiya' with your actual GitHub username in both widgets below -->
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=akiya&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="170">
@@ -74,11 +72,9 @@ const akiya = {
 
 ---
 <div align="center">
-  <!-- Replace 'akiya' with your actual GitHub username -->
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWZ6MjNhbnJzdTNzYm1qcHVoM3ZmcnZ1dzFzeHRocDZreWFpdXc4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UYzNgRSTf9X1e/giphy.gif" alt="Profile Views">
 </div>
 
-<!-- Anime-themed Secret Garden -->
 <details>
   <summary>🌸Secret</summary>
   <div align="center">
